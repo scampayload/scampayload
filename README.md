@@ -18,5 +18,5 @@
 <p align="left">
 <a href="https://www.facebook.com/skirpt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="skirpt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@payloaduwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="payloaduwu" height="30" width="40" /></a>
-<a href="https://discord.gg/sZj3zXynzX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jord6484" height="30" width="40" /></a>
+<a href="https://discord.gg/sZj3zXynzX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jord#6484" height="30" width="40" /></a>
 </p>
